@@ -1,0 +1,12 @@
+#container{
+    color: black;
+    text-align: justify;
+  }
+
+#texto{
+  background-color: #FFFFCC;
+}
+#coluna{
+  background: linear-gradient(180deg, rgba(33, 214, 30, 0.71) 0%,
+   rgba(255, 255, 255, 0.5) 100%), rgba(239, 243, 26, 0.85);
+}
